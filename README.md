@@ -1,6 +1,6 @@
-# Kariyer Kapısı 🚪
+# CVDrop 💼
 
-**Kariyer Kapısı**, iş arayanlar ile işverenleri bir araya getiren yeni nesil bir kariyer platformudur. Bu proje, dijital iş başvurularını kolaylaştırmayı, şeffaflığı artırmayı ve kullanıcı dostu bir deneyim sunmayı hedeflemektedir.
+**CVDrop**, iş arayanlar ile işverenleri bir araya getiren yeni nesil bir kariyer platformudur. Bu proje, dijital iş başvurularını kolaylaştırmayı, şeffaflığı artırmayı ve kullanıcı dostu bir deneyim sunmayı hedeflemektedir.
 
 ### 🚧 Geliştirme Durumu
 Bu proje şu anda **erken prototipleme aşamasındadır**. Uygulama içerisinde temel sayfa geçişleri dışında çalışan bir özellik yoktur. Formlar, düğmeler ve diğer etkileşimli alanlar yalnızca arayüz testi içindir. Herhangi bir veri kaydı, bağlantı veya işlevsel özellik **henüz aktif değildir**.
