@@ -17,6 +17,7 @@ Bu proje şu anda **erken prototipleme aşamasındadır**. Uygulama içerisinde 
 
 ### 📦 Sürüm
 `Alpha 0.0.3` – Sadece tasarımsal önizleme içindir.
+**Sıradaki Güncelleme:** Splash screen
 
 ### ⚠️ Uyarı
 Bu sürüm işlevsel değildir. Sadece tasarım ve demo testleri içindir. Lütfen nihai sürüm için bizi takipte kalın.
