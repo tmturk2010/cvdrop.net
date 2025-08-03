@@ -16,7 +16,7 @@ Bu proje şu anda **erken prototipleme aşamasındadır**. Uygulama içerisinde 
 - Türkiye'deki genç girişimcilik potansiyelini desteklemek
 
 ### 📦 Sürüm
-`Alpha 0.0.1` – Sadece tasarımsal önizleme içindir.
+`Alpha 0.0.3` – Sadece tasarımsal önizleme içindir.
 
 ### ⚠️ Uyarı
 Bu sürüm işlevsel değildir. Sadece tasarım ve demo testleri içindir. Lütfen nihai sürüm için bizi takipte kalın.
