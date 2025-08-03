@@ -23,7 +23,7 @@ Bu sürüm işlevsel değildir. Sadece tasarım ve demo testleri içindir. Lütf
 
 ### 📩 İletişim
 Her türlü soru, öneri veya iş birliği için bizimle iletişime geçebilirsiniz:  
-📧 **toprakmetet2@gmail.com**
+📧 **cvdropnet@gmail.com**
 
 ### 📄 Lisans
 Bu proje şu anda özel bir lisansa tabidir. Kodlar paylaşılmamaktadır. Daha fazla bilgi için lütfen iletişime geçin.
