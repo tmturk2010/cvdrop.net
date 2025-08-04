@@ -24,8 +24,11 @@ Bu sürüm işlevsel değildir. Sadece tasarım ve demo testleri içindir. Lütf
 
 ### 📩 İletişim
 Her türlü soru, öneri veya iş birliği için bizimle iletişime geçebilirsiniz:  
-📧 **cvdropnet@gmail.com** 
-📸**instagram.com/cvdropnet**
+📧[E-Posta]
+📸[Instagram]
 
 ### 📄 Lisans
 Bu proje şu anda özel bir lisansa tabidir. Kodlar paylaşılmamaktadır. Daha fazla bilgi için lütfen iletişime geçin.
+
+[E-Posta]: mailto:cvdropnet@gmail.com
+[Instagram]: https://www.instagram.com/cvdropnet
