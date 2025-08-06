@@ -1,4 +1,4 @@
-# CVDrop 💼
+# 💼 CVDrop
 
 **CVDrop**, iş arayanlar ile işverenleri bir araya getiren yeni nesil bir kariyer platformudur. Bu proje, dijital iş başvurularını kolaylaştırmayı, şeffaflığı artırmayı ve kullanıcı dostu bir deneyim sunmayı hedeflemektedir.
 
