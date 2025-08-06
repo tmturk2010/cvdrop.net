@@ -17,7 +17,8 @@ Bu proje şu anda **erken prototipleme aşamasındadır**. Uygulama içerisinde 
 
 ### 📦 Sürüm
 `Alpha 0.0.4` – Sadece tasarımsal önizleme içindir.
-**Sıradaki Güncelleme:** Planlarda yok
+**Sıradaki Güncelleme:** Bug Fixleri
+**Bilinen problemler:** Splash screendeki turkuaz kare, Şifremi unuttum düğmesi çalışmıyor.
 
 ### ⚠️ Uyarı
 Bu sürüm işlevsel değildir. Sadece tasarım ve demo testleri içindir. Lütfen nihai sürüm için bizi takipte kalın.
