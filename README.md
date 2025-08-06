@@ -70,8 +70,8 @@ Lütfen nihai sürüm için bizi takipte kalın.
 ### 📩 İletişim
 
 Her türlü soru, öneri veya iş birliği için bizimle iletişime geçebilirsiniz:  
-📧 [cvdropnet@gmail.com](mailto:cvdropnet@gmail.com)  
-📸 [@cvdropnet Instagram](https://www.instagram.com/cvdropnet)
+📧 [E-Posta](mailto:cvdropnet@gmail.com)  
+📸 [Instagram](https://www.instagram.com/cvdropnet)
 
 ---
 
