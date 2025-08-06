@@ -37,6 +37,8 @@ Henüz hiçbir işlevsellik aktif değildir. UI testleri için paylaşılmışt�
 
 🔗 [Sürüm bağlantısı → GitHub Releases](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.4)
 
+🔗 [Sürüm Geçmişi](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.4)
+
 ---
 
 ### 🔜 Yakında Gelecek
