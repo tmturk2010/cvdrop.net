@@ -43,12 +43,10 @@ Henüz hiçbir işlevsellik aktif değildir. UI testleri için paylaşılmışt�
 
 ### 🔜 Yakında Gelecek
 
-**v0.1.0**
 - Hata düzeltmeleri (bug fixler)
 - Splash ekran optimizasyonu
 - Backend entegrasyonu (veri gönderimi ve alma)
-- Gerçek kullanıcı hesapları (kayıt ve giriş sistemi)
-**v0.1.1**
+- Gerçek kullanıcı hesapları (kayıt ve giriş sistemi)  
 - İlan oluşturma ve listeleme özelliklerinin temeli
 - Başvuru formlarının aktif hale gelmesi
 
