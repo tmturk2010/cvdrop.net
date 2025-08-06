@@ -15,10 +15,21 @@ Bu proje şu anda **erken prototipleme aşamasındadır**. Uygulama içerisinde 
 - İşe alım süreçlerini sadeleştirmek  
 - Türkiye'deki genç girişimcilik potansiyelini desteklemek
 
-### 📦 Sürüm
-`Alpha 0.0.4` – Sadece tasarımsal önizleme içindir.
-**Sıradaki Güncelleme:** Bug Fixleri
-**Bilinen problemler:** Splash screendeki turkuaz kare, Şifremi unuttum düğmesi çalışmıyor.
+## 📦 Sürüm Notları
+
+### `Alpha 0.0.4`
+🚧 Bu sürüm sadece **tasarımsal önizleme** amacıyla yayınlanmıştır.  
+Henüz hiçbir işlevsellik aktif değildir. UI testleri için paylaşılmıştır.
+
+
+### 🔜 Yakında Gelecek
+- Hata düzeltmeleri (bug fixler)
+- Temel işlevsel modüllerin entegrasyonu (kayıt/giriş)
+- Splash ekran optimizasyonu
+
+### ⚠️ Bilinen Problemler
+- Splash ekranında turkuaz kare hatası
+- "Şifremi Unuttum" butonu çalışmıyor
 
 ### ⚠️ Uyarı
 Bu sürüm işlevsel değildir. Sadece tasarım ve demo testleri içindir. Lütfen nihai sürüm için bizi takipte kalın.
