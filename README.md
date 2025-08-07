@@ -29,24 +29,23 @@ Herhangi bir veri kaydı, bağlantı veya işlevsel özellik **henüz aktif değ
 
 ---
 
-## 📦 Sürüm Notları
+## 📦 Son Sürüm
 
-### `Alpha 0.0.4`
-🚧 Bu sürüm sadece **tasarımsal önizleme** amacıyla yayınlanmıştır.  
-Henüz hiçbir işlevsellik aktif değildir. UI testleri için paylaşılmıştır.
+### `Alpha 0.0.5`
+Bu sürüm, **giriş ekranının backend’e bağlandığı** ilk fonksiyonel versiyondur.  
+Henüz tam işlevsel değil, sadece kullanıcı giriş sistemi çalışmaktadır.  
+Diğer özellikler (kayıt, ilanlar, mesajlaşma vb.) test aşamasındadır.
 
-🔗 [Sürüm bağlantısı → GitHub Releases](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.4)
-
+🔗 [Sürüm bağlantısı → GitHub Releases](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.5)  
 🔗 [Değişiklik Günlüğü](https://github.com/tmturk2010/cvdrop.net/blob/main/CHANGELOG.md)
+🔗 [Tüm sürümler](https://github.com/tmturk2010/cvdrop.net/releases)
 
 ---
 
 ### 🔜 Yakında Gelecek
 
-- Hata düzeltmeleri (bug fixler)
 - Splash ekran optimizasyonu
-- Backend entegrasyonu (veri gönderimi ve alma)
-- Gerçek kullanıcı hesapları (kayıt ve giriş sistemi)  
+- Gelişmiş backend entegrasyonu (veri gönderimi ve alma) 
 - İlan oluşturma ve listeleme özelliklerinin temeli
 - Başvuru formlarının aktif hale gelmesi
 
@@ -54,16 +53,18 @@ Henüz hiçbir işlevsellik aktif değildir. UI testleri için paylaşılmışt�
 
 ### ⚠️ Bilinen Problemler
 
-- Splash ekranında turkuaz kare hatası  
+- Splash ekranında logo karanlık modda iken gözükmüyor
+- Splash ekranında logonun kalitesi düşük  
 - "Şifremi Unuttum" butonu çalışmıyor
 
 ---
 
 ### ⚠️ Uyarı
 
-Bu sürüm işlevsel değildir.  
-Sadece tasarım ve demo testleri içindir.  
-Lütfen nihai sürüm için bizi takipte kalın.
+Bu sürüm **kısmen işlevseldir**.  
+Sadece giriş sistemi backend'e entegre edilmiştir.  
+Diğer tüm özellikler şu an test ve geliştirme aşamasındadır.  
+Lütfen tam sürüm için bizi takipte kalın.
 
 ---
 
