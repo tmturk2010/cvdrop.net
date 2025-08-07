@@ -1,5 +1,12 @@
 # 📄 Değişiklik Günlüğü (Changelog)
 
+## [Alpha 0.0.5] - Backend Entegrasyonu
+- Backend eklendi.
+- Artık uygulamayı kullanabilmek için giriş yapman ve/veya hesap oluşturman lazım.
+- Splash screen optimizasyon çalışmaları.
+
+[Alpha 0.0.5]: https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.5
+
 ## [Alpha 0.0.4] - Tasarım Güncellemeleri
 - Splash screen eklendi.
 
