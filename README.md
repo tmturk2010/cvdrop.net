@@ -31,7 +31,7 @@ Herhangi bir veri kaydı, bağlantı veya işlevsel özellik **henüz tam aktif 
 
 ## 📦 Son Sürüm
 
-### `Alpha 0.0.6`
+### `Pre-Alpha 0.0.6`
 Bu sürümde iş ilanları eklenmişdir ama performans ve optimizasyon sıkıntılarından dolayı bir sürü problemleri bulunmaktadır.
 
 🔗 [Sürüm bağlantısı → GitHub Releases](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.6)  
