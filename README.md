@@ -46,6 +46,7 @@ Bu sürümde iş ilanları eklenmişdir ama performans ve optimizasyon sıkınt�
 - Gelişmiş backend entegrasyonu (veri gönderimi ve alma) 
 - İlan oluşturma ve listeleme özelliklerinin devamı
 - Başvuru formlarının backend'e entegrasyounun yapılması
+- Hesap oluştur ve şifremi unuttum düğmeleri
 
 ---
 
