@@ -1,5 +1,10 @@
 # 📄 Değişiklik Günlüğü (Changelog)
 
+## [Alpha 0.0.6] - İş İlanı Güncellemesi
+- İş ilanı oluşturma ve iş ilanlarını görüntüleme ekranları geldi
+
+[Alpha 0.0.6]: https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.6
+
 ## [Alpha 0.0.5] - Backend Entegrasyonu
 - Backend eklendi.
 - Artık uygulamayı kullanabilmek için giriş yapman ve/veya hesap oluşturman lazım.
@@ -7,7 +12,7 @@
 
 [Alpha 0.0.5]: https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.5
 
-## [Alpha 0.0.4] - Tasarım Güncellemeleri
+## [Alpha 0.0.4] - Splash Screen Güncellemeleri
 - Splash screen eklendi.
 
 [Alpha 0.0.4]: https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.4
