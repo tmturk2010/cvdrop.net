@@ -1,65 +1,65 @@
 # 💼 CVDrop
 
-**CVDrop**, iş arayanlar ile işverenleri bir araya getiren yeni nesil bir kariyer platformudur. Bu proje, dijital iş başvurularını kolaylaştırmayı, şeffaflığı artırmayı ve kullanıcı dostu bir deneyim sunmayı hedeflemektedir.
+**CVDrop**, iş arayanlarla işverenleri buluşturan yeni nesil kariyer platformudur. Dijital iş başvurularını kolaylaştırmayı, şeffaflığı artırmayı ve kullanıcı dostu deneyim sunmayı amaçlar.
 
 ---
 
 ### 🚧 Geliştirme Durumu
 
-Bu proje şu anda **erken prototipleme aşamasındadır**.  
-Uygulama içerisinde temel sayfa geçişleri dışında çalışan bir özellik yoktur.  
-Formlar, düğmeler ve diğer etkileşimli alanlar yalnızca arayüz testi içindir.  
-Herhangi bir veri kaydı, bağlantı veya işlevsel özellik **henüz tam aktif değildir**.
+Proje şu anda **erken prototip aşamasındadır**.  
+Temel sayfa geçişleri dışında çalışan özellik bulunmamaktadır.  
+Formlar, düğmeler ve diğer interaktif alanlar sadece arayüz testi içindir.  
+Veri kaydı, bağlantı ya da tam işlevsellik **henüz tam aktif değildir**.
 
 ---
 
-### 📱 Hedef Platform
+### 📱 Hedef Platformlar
 
-- Android (ilk aşama)
-- Web & iOS (gelecek planlar içinde)
+- Android (ilk aşama)  
+- Web & iOS (gelecek planlar)
 
 ---
 
-### 🧪 Amaç
+### 🧪 Amaçlar
 
 - İş ilanlarını dijital ortamda yönetmek  
 - İş başvurularını kolaylaştırmak  
 - İşe alım süreçlerini sadeleştirmek  
-- Türkiye'deki genç girişimcilik potansiyelini desteklemek
+- Türkiye’de genç girişimcilik potansiyelini desteklemek
 
 ---
 
 ## 📦 Son Sürüm
 
-### `Pre-Alpha 0.0.6`
-Bu sürümde iş ilanları eklenmişdir ama performans ve optimizasyon sıkıntılarından dolayı bir sürü problemleri bulunmaktadır.
+### `Pre-Alpha 0.0.6`  
+İş ilanları eklendi ancak performans ve optimizasyon sorunları mevcuttur.
 
-🔗 [Sürüm bağlantısı → GitHub Releases](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.6)  
-🔗 [Değişiklik Günlüğü](https://github.com/tmturk2010/cvdrop.net/blob/main/CHANGELOG.md)
-🔗 [Tüm sürümler](https://github.com/tmturk2010/cvdrop.net/releases)
+🔗 [Sürüm → GitHub Releases](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.6)  
+🔗 [Değişiklik Günlüğü](https://github.com/tmturk2010/cvdrop.net/blob/main/CHANGELOG.md)  
+🔗 [Tüm Sürümler](https://github.com/tmturk2010/cvdrop.net/releases)
 
 ---
 
-### 🔜 Yakında Gelecek
+### 🔜 Yakında Gelecekler
 
-- **Kaydırarak iş/eleman bulma özelliği** (Tinder benzeri)
-- Splash ekran optimizasyonu
-- Gelişmiş backend entegrasyonu (veri gönderimi ve alma) 
-- İlan oluşturma ve listeleme özelliklerinin devamı
-- Başvuru formlarının backend'e entegrasyounun yapılması
-- Hesap oluştur ve şifremi unuttum düğmeleri
+- **Kaydırarak iş/eleman bulma özelliği** (Tinder tarzı)  
+- Splash ekran optimizasyonu  
+- Backend entegrasyonunun geliştirilmesi (veri gönderme ve alma)  
+- İlan oluşturma ve listeleme özellikleri  
+- Başvuru formlarının backend’e bağlanması  
+- Hesap oluşturma ve şifre yenileme düğmeleri
 
 ---
 
 ### ⚠️ Bilinen Problemler
 
-- Splash ekranında logo karanlık modda iken gözükmüyor
-- Splash ekranında logonun kalitesi düşük
-- Splash ekranında logonun yarısı gözükmüyor
-- Uygulama ikonu yok
-- Performans, görsel ve optimizasyon problemleri
-- "Şifremi Unuttum" butonu yok
-- "Hesap oluştur" butonu yok, hesap oluşturmak için hala v0.0.5'i kullanabilirsiniz
+- Karanlık modda splash ekran logosu görünmüyor  
+- Splash ekran logosunun kalitesi düşük  
+- Splash ekran logosunun yarısı görünmüyor  
+- Uygulama ikonu yok  
+- Performans ve görsel optimizasyon sorunları  
+- "Şifremi Unuttum" butonu yok  
+- "Hesap Oluştur" butonu yok (v0.0.5 sürümü ile oluşturabilirsiniz)
 
 ---
 
@@ -67,7 +67,7 @@ Bu sürümde iş ilanları eklenmişdir ama performans ve optimizasyon sıkınt�
 
 Bu sürüm **kısmen işlevseldir**.  
 Sadece giriş sistemi backend'e entegre edilmiştir.  
-Diğer tüm özellikler şu an test ve geliştirme aşamasındadır.  
+Diğer tüm özellikler geliştirme ve test aşamasındadır.  
 Lütfen tam sürüm için bizi takipte kalın.
 
 ---
