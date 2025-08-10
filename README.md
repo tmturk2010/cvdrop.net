@@ -42,6 +42,7 @@ Bu sürümde iş ilanları eklenmişdir ama performans ve optimizasyon sıkınt�
 
 ### 🔜 Yakında Gelecek
 
+- **Kaydırarak iş/eleman bulma özelliği**
 - Splash ekran optimizasyonu
 - Gelişmiş backend entegrasyonu (veri gönderimi ve alma) 
 - İlan oluşturma ve listeleme özelliklerinin devamı
