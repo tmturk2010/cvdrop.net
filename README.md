@@ -34,7 +34,7 @@ Veri kaydı, bağlantı ya da tam işlevsellik **henüz tam aktif değildir**.
 ### `Pre-Alpha 0.0.6`  
 İş ilanları eklendi ancak performans ve optimizasyon sorunları mevcuttur.
 
-🔗 [Sürüm → GitHub Releases](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.6)  
+🔗 [Son Sürüm](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.6)  
 🔗 [Değişiklik Günlüğü](https://github.com/tmturk2010/cvdrop.net/blob/main/CHANGELOG.md)  
 🔗 [Tüm Sürümler](https://github.com/tmturk2010/cvdrop.net/releases)
 
