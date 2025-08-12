@@ -31,10 +31,10 @@ Veri kaydı, bağlantı ya da tam işlevsellik **henüz tam aktif değildir**.
 
 ## 📦 Son Sürüm
 
-### `Pre-Alpha 0.0.6`  
-İş ilanları eklendi ancak performans ve optimizasyon sorunları mevcuttur.
+### `Pre-Alpha 0.0.7`  
+Hata düzeltmeleri, iş ilanları güncellemesi, hesap oluştur düğmesi ve şifremi unuttum düğmesi eklenmedi (Hesap oluşturma çalışıyor ama şifremi unuttum aktif değil)
 
-🔗 [Son Sürüm](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.6)  
+🔗 [Son Sürüm](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.7)  
 🔗 [Değişiklik Günlüğü](https://github.com/tmturk2010/cvdrop.net/blob/main/CHANGELOG.md)  
 🔗 [Tüm Sürümler](https://github.com/tmturk2010/cvdrop.net/releases)
 
@@ -58,8 +58,6 @@ Veri kaydı, bağlantı ya da tam işlevsellik **henüz tam aktif değildir**.
 - Splash ekran logosunun yarısı görünmüyor  
 - Uygulama ikonu yok  
 - Performans ve görsel optimizasyon sorunları  
-- "Şifremi Unuttum" butonu yok  
-- "Hesap Oluştur" butonu yok (v0.0.5 sürümü ile oluşturabilirsiniz)
 
 ---
 
