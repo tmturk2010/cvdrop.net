@@ -57,7 +57,7 @@ Hata düzeltmeleri, iş ilanları güncellemesi, hesap oluştur düğmesi ve şi
 - Splash ekran logosunun kalitesi düşük  
 - Splash ekran logosunun yarısı görünmüyor  
 - Uygulama ikonu yok  
-- Performans ve görsel optimizasyon sorunları  
+- Performans ve görsel optimizasyon sorunları  jh
 
 ---
 
