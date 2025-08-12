@@ -47,7 +47,9 @@ Hata düzeltmeleri, iş ilanları güncellemesi, hesap oluştur düğmesi ve şi
 - Backend entegrasyonunun geliştirilmesi (veri gönderme ve alma)  
 - İlan oluşturma ve listeleme özellikleri  
 - Başvuru formlarının backend’e bağlanması  
-- Hesap oluşturma ve şifre yenileme düğmeleri
+- Şİfre yenilemenin aktif hale gelmesi
+- Hesap oluştururken e-posta doğrulaması
+- Google/Facebook/iCloud ile giriş yap seçeneği
 
 ---
 
