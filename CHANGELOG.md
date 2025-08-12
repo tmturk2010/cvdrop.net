@@ -1,5 +1,11 @@
 # 📄 Değişiklik Günlüğü (Changelog)
 
+## [Pre-Alpha 0.0.7] - Hesap güncellemesi
+- Hesap oluşturma geri eklendi (çalışıyor)
+- Şİfremi unuttum ekranı eklendi (daha aktif değil)
+
+[Pre-Alpha 0.0.7]: https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.7
+
 ## [Pre-Alpha 0.0.6] - İş İlanı Güncellemesi
 - İş ilanı oluşturma ve iş ilanlarını görüntüleme ekranları geldi
 
