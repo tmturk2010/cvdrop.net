@@ -31,10 +31,10 @@ Veri kaydı, bağlantı ya da tam işlevsellik **henüz tam aktif değildir**.
 
 ## 📦 Son Sürüm
 
-### `Pre-Alpha 0.0.7`  
-Hata düzeltmeleri, iş ilanları güncellemesi, hesap oluştur düğmesi ve şifremi unuttum düğmesi eklenmedi (Hesap oluşturma çalışıyor ama şifremi unuttum aktif değil)
+### `Pre-Alpha 0.0.8`  
+Kotlin'den Flutter'a geçildi
 
-🔗 [Son Sürüm](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.7)  
+🔗 [Son Sürüm](https://github.com/tmturk2010/cvdrop.net/releases/tag/v0.0.8)  
 🔗 [Değişiklik Günlüğü](https://github.com/tmturk2010/cvdrop.net/blob/main/CHANGELOG.md)  
 🔗 [Tüm Sürümler](https://github.com/tmturk2010/cvdrop.net/releases)
 
@@ -50,6 +50,8 @@ Hata düzeltmeleri, iş ilanları güncellemesi, hesap oluştur düğmesi ve şi
 - Şİfre yenilemenin aktif hale gelmesi
 - Hesap oluştururken e-posta doğrulaması
 - Google/Facebook/iCloud ile giriş yap seçeneği
+- Uygulama ikonu eklenecek
+- Dosya boyutu küçültülecek
 
 ---
 
@@ -58,8 +60,9 @@ Hata düzeltmeleri, iş ilanları güncellemesi, hesap oluştur düğmesi ve şi
 - Karanlık modda splash ekran logosu görünmüyor  
 - Splash ekran logosunun kalitesi düşük  
 - Splash ekran logosunun yarısı görünmüyor  
-- Uygulama ikonu yok  
+- Uygulama ikonu Flutter logosu
 - Performans ve görsel optimizasyon sorunları
+- Dosya boyutu çok büyük (~200MB)
 
 ---
 
